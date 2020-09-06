@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="checkersGamesDatabase" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=C:\database\checkersGamesDatabase.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="CheckersGameServer.Properties.Settings" SettingsPropertyName="checkersGamesDatabaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Players" Member="Players">
+    <Type Name="Player">
+      <Column Name="UserName" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="IsOnline" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="IsPlaying" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Games" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Wins" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Loses" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LastName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="City" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

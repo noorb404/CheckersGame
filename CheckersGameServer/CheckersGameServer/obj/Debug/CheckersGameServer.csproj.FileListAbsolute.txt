@@ -1,0 +1,29 @@
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\CheckersGameServer.dll.config
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\CheckersGameServer.dll
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\CheckersGameServer.pdb
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\EntityFramework.dll
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\EntityFramework.xml
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.csprojResolveAssemblyReference.cache
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.csproj.CoreCompileInputs.cache
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.dll
+C:\Users\nazn\Desktop\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.pdb
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\CheckersGameServer.dll.config
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\CheckersGameServer.dll
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\CheckersGameServer.pdb
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\EntityFramework.dll
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\EntityFramework.xml
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.csprojResolveAssemblyReference.cache
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.csproj.CoreCompileInputs.cache
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.dll
+C:\Users\noor2\Desktop\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.pdb
+C:\Users\noor2\Desktop\WEB + DAMA\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\CheckersGameServer.dll.config
+C:\Users\noor2\Desktop\WEB + DAMA\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\CheckersGameServer.dll
+C:\Users\noor2\Desktop\WEB + DAMA\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\bin\Debug\CheckersGameServer.pdb
+C:\Users\noor2\Desktop\WEB + DAMA\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.csprojResolveAssemblyReference.cache
+C:\Users\noor2\Desktop\WEB + DAMA\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.csproj.CoreCompileInputs.cache
+C:\Users\noor2\Desktop\WEB + DAMA\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.dll
+C:\Users\noor2\Desktop\WEB + DAMA\פרויקט סוף\project v3\CheckersGameServer\CheckersGameServer\obj\Debug\CheckersGameServer.pdb
